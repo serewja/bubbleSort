@@ -1,4 +1,4 @@
-import f from "../dist/index.js"
+import bubbleSort from "../dist/index.js"
 
 test('testname', () => {
   expect(bubbleSort([])).toEqual([]);
